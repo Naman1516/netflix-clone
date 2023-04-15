@@ -1,1 +1,1 @@
-# react-clone
+# netflix-clone
